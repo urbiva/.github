@@ -71,8 +71,9 @@ Urbiva connects three things: what people observe on the street, a verified acce
 | Hackathon MVP with all four modules and a guided demo | Implemented |
 | Demo network "Pilot zona A" | Sample data, not a real city |
 | Design system v1.0 | Design freeze |
-| UVA-Net S10, a lightweight local vision model | Planned research, no model or results yet |
+| UVA-Net S10, a lightweight local vision model | Implemented in code, not trained; no weights or results yet |
 | Public deployment and real pilot data | Planned |
+| Source code | Public to read, proprietary license; see each repository |
 
 ## Principles
 
